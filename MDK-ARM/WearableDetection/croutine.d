@@ -1,0 +1,14 @@
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\wearabledetection\croutine.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\croutine.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+.\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
