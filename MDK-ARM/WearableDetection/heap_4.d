@@ -1,8 +1,8 @@
 .\wearabledetection\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
-.\wearabledetection\heap_4.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\wearabledetection\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\wearabledetection\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-.\wearabledetection\heap_4.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
-.\wearabledetection\heap_4.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 .\wearabledetection\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

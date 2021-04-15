@@ -7,7 +7,7 @@
 .\wearabledetection\main.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l1xx.h
 .\wearabledetection\main.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l151xb.h
 .\wearabledetection\main.o: ../Drivers/CMSIS/Include/core_cm3.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
 .\wearabledetection\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 .\wearabledetection\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@
 .\wearabledetection\main.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/system_stm32l1xx.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc_ex.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio_ex.h
@@ -35,11 +35,11 @@
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_spi.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_uart.h
 .\wearabledetection\main.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_exti.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\time.h
-.\wearabledetection\main.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\wearabledetection\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\wearabledetection\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
 .\wearabledetection\main.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h

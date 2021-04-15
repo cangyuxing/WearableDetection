@@ -1,8 +1,8 @@
 .\wearabledetection\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
-.\wearabledetection\list.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\wearabledetection\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\wearabledetection\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-.\wearabledetection\list.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
-.\wearabledetection\list.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\list.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 .\wearabledetection\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

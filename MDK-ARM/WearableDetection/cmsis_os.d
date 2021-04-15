@@ -1,9 +1,9 @@
 .\wearabledetection\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c
-.\wearabledetection\cmsis_os.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+.\wearabledetection\cmsis_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\wearabledetection\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 .\wearabledetection\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-.\wearabledetection\cmsis_os.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
-.\wearabledetection\cmsis_os.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\cmsis_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\cmsis_os.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\cmsis_os.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 .\wearabledetection\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

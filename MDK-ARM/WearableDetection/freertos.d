@@ -1,7 +1,7 @@
 .\wearabledetection\freertos.o: ../Core/Src/freertos.c
 .\wearabledetection\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\freertos.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 .\wearabledetection\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -44,11 +44,11 @@
 .\wearabledetection\freertos.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_spi.h
 .\wearabledetection\freertos.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_uart.h
 .\wearabledetection\freertos.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_exti.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\time.h
-.\wearabledetection\freertos.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\wearabledetection\freertos.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\wearabledetection\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 .\wearabledetection\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
 .\wearabledetection\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

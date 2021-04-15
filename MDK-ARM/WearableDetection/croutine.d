@@ -1,7 +1,7 @@
 .\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 .\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-.\wearabledetection\croutine.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
-.\wearabledetection\croutine.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\croutine.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 .\wearabledetection\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

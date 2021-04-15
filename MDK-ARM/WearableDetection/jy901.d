@@ -8,7 +8,7 @@
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l1xx.h
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/stm32l151xb.h
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Include/core_cm3.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Include/cmsis_version.h
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -16,7 +16,7 @@
 .\wearabledetection\jy901.o: ../Drivers/CMSIS/Device/ST/STM32L1xx/Include/system_stm32l1xx.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stddef.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rcc_ex.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_gpio_ex.h
@@ -36,11 +36,11 @@
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_spi.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_uart.h
 .\wearabledetection\jy901.o: ../Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_exti.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\math.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\time.h
-.\wearabledetection\jy901.o: D:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\wearabledetection\jy901.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\wearabledetection\jy901.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
 .\wearabledetection\jy901.o: ../Core/Inc/FreeRTOSConfig.h
 .\wearabledetection\jy901.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
